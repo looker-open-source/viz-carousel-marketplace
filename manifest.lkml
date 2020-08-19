@@ -12,6 +12,6 @@ constant: VIS_ID {
 
 visualization: {
   id: "@{VIS_ID}"
-  url: "https://looker-custom-viz-a.lookercdn.com/master/image_carousel.js"
+  url: "https://marketplace-api.looker.com/viz-dist/image_carousel.js"
   label: "@{VIS_LABEL}"
 }
