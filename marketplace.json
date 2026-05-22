@@ -2,7 +2,7 @@
   "label": "Image Carousel Visualization",
   "category_label": "Plug-ins",
   "branding": {
-    "image_uri": "https://marketplace-api.looker.com/visualization-screenshots/carousel_icon.png",
+    "image_uri": "https://static-a.cdn.looker.app/marketplace/visualization-screenshots/carousel_icon.png",
     "tagline": "Use the Image Carousel visualization to display a gallery of images."
   },
 
